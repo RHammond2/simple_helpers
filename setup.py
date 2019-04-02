@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='simple_helpers',
-      version='0.1',
+      version='0.1.1',
       description='A collection of helper functions',
       long_description=readme(),
       classifiers=[
